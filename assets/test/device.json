@@ -1,0 +1,53 @@
+[
+   {
+       "status": null,
+       "device_model": null,
+       "user_count": 9,
+       "area_id": "1",
+       "time_zone": "Etc/GMT+4",
+       "firmware_Version": "Ver 1.0.0-20150331",
+       "last_activity": null,
+       "face_count": 0,
+       "fp_count": 9,
+       "ip_port": null,
+       "fv_Count": null,
+       "ip_address": "192.168.1.50",
+       "palm_Count": null,
+       "device_Name": "auto_add",
+       "Serial_Number": "6358154000041"
+   },
+   {
+       "status": false,
+       "device_model": null,
+       "user_count": null,
+       "area_id": "1",
+       "time_zone": "GMT-12",
+       "firmware_Version": null,
+       "last_activity": null,
+       "face_count": null,
+       "fp_count": null,
+       "ip_port": 2020,
+       "fv_Count": null,
+       "ip_address": "192.165.12.11",
+       "palm_Count": null,
+       "device_Name": "device1",
+       "Serial_Number": "5555"
+   },
+   {
+       "status": true,
+       "device_model": null,
+       "user_count": null,
+       "area_id": "2ps",
+       "time_zone": "GMT-12",
+       "firmware_Version": null,
+       "last_activity": null,
+       "face_count": null,
+       "fp_count": null,
+       "ip_port": 5222,
+       "fv_Count": null,
+       "ip_address": "12121111",
+       "palm_Count": null,
+       "device_Name": "d1",
+       "Serial_Number": "121"
+   }
+]

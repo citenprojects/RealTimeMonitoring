@@ -1,0 +1,252 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+	padding:0px;
+
+}
+
+.header-top	{
+		background-color:#0768a0;
+		color:#ff0;
+		height:35px;
+}
+
+.welcome-text-padding	{
+		padding:6px 0;
+}
+
+.top-icons-padding	{
+		padding:3px 0;
+}
+
+header	{
+		width:100%;
+		height:auto;
+		z-index:999;
+}
+
+h1	{
+		font-family: 'ABeeZee', sans-serif;
+		text-outline: 2px 2px #fff;
+}
+
+h2	{
+		font-family: 'ABeeZee', sans-serif;
+}
+
+h3	{
+		font-family: 'ABeeZee', sans-serif;
+		color:#e21513;
+}
+
+
+h4	{
+		font-family: 'ABeeZee', sans-serif;
+
+}
+
+.banner-img	{
+	background: url(/assets/img/login-bg.jpg) center fixed;
+	min-height:570px;
+}
+
+
+.banner-margin	{
+		padding:100px 0 100px 0;
+}
+
+.login-page-head	{
+		font-size:20px;
+		color:#fff;
+		margin:15px 0;
+		font-weight:bold;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #39eaf0;
+  background-color: #1188b9;
+  border-radius:10px;
+  width:100%;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  color:#fff;
+  font-size:16px;
+  font-weight:bold;
+  font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing:1px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #b41010;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #b41010;
+}
+
+/* Style the tab content */
+.tabcontent {
+  padding: 20px;
+  border: 1px solid #39eaf0;
+  border-top: none;
+  background-color:#ededed;
+  margin:5px 0;
+  border-radius:10px;
+  min-height:150px;
+}
+
+.form-text	{
+		background-color:#fff;
+		color:#F00;
+		font-size:16px;
+		padding:5px;
+		border-radius:5px;
+		border:solid 1px #d0d0d0;
+}
+
+.form-button	{
+		background-color:#1188b9;
+		border:solid;
+		border-width:1px;
+		border-color:#891717;
+		color:#fff;
+}
+
+.content_section	{
+		min-height:600px;
+		background-color:#fff;
+}
+
+.sub-menu	{
+		background-color:#e3edf1;
+
+}
+
+.section-container	{
+		background-color:#fff;
+		min-height:600px;
+}
+
+.side-bar-menu	{
+		background-color:#333;
+		min-height:750px;
+		padding:25px 0;
+
+}
+
+.side-menu-button	{
+		width:100%;
+		color:#fff;
+		background-color:#e50303;
+		min-height:15px;
+		margin:6px 0;
+		padding:10px;
+}
+
+.side-menu-button:hover	{
+	color:#fff;
+	background-color:#bd0707;
+	text-decoration:none;
+}
+
+.all-content-aria	{
+	min-height:600px;
+	padding:10px 0;
+	background-color:#fff;
+}
+
+.top-form-above-menu	{
+	background-color:#ebebeb;
+	min-height:25px;
+	padding:8px;
+	font-size:12px;
+}
+
+.top-form-section	{
+	background-color:#fafafa;
+	border:solid 1px #CCC;
+	min-height:180px;
+	padding:20px;
+}
+
+
+.main-table	{
+		background-color:#eef6f9;
+		padding:15px;
+		min-height:400px;
+		margin:10px 0;
+		border:solid 1px #b2b2b2;
+}
+
+.featuers-section	{
+		width:100%;
+		background:#f8f8f8;
+		padding:25px 0;
+		font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text-1	{
+		font-size:15px;
+		line-height:30px;
+		font-family: 'Varela Round', sans-serif;
+		margin:15px 0;
+}
+
+.text-2	{
+		font-size:15px;
+		line-height:28px;
+		font-family: 'Varela Round', sans-serif;
+		margin:5px 0;
+		color:#3d3d3d;
+}
+
+.section-bottom	{
+		padding:65px 0;
+		border:solid #7c191a;
+		border-width:1px 0;
+		color:#fff;
+		background: url(/assets/img/bottom-bg.jpg) fixed;
+    	-webkit-background-size: cover;
+    	-moz-background-size: cover;
+    	background-size: cover;
+    	-o-background-size: cover;
+}
+
+.footer	{
+		background:#061b28;
+		padding:20px 0;
+		color:#d4f53a;
+}
+
+.dialer-head	{
+		font-family: 'ABeeZee', sans-serif;
+		font-size:35px;
+		margin:20px 0;
+
+}
+
+.dialer-space	{
+		margin:15px 0;
+}
+
+.offer	{
+		background-color:#ebedef;
+		min-height:500px;
+		padding:50px 0;
+}
+
